@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+    <style>
+        h1{ color: rgb(255, 0, 0)}
+        body {background-color: aqua;}
+    </style>
+
+
+
+    </head>
+    <body>
+
+        <h1>The coolest creature</h1>
+
+        <p>The <em>Sloth</em> is awesome because 
+            <img src="https://files.worldwildlife.org/wwfcmsprod/images/Baby_Sloth_Hanging_iStock_3_12_2014/portrait_overview/4zhzw2pmf0_iStock_000016816803XLarge_mini.jpg" alt="Sloth" width="200" >
+            <ul>
+                <li> is the <strong>sluggish tree-dwellers of Central and South America</strong>—spend their lives in the tropical rain forests. 
+                </li>
+                <li>They move through the canopy at a rate of about <strong>40 yards per day</strong>, munching on leaves, twigs and buds. 
+                </li>
+                <li>Sloths have an exceptionally <strong>low metabolic rate and spend 15 to 20 hours per day sleeping</strong>. </li>
+                <li>And surprisingly enough, the long-armed animals are <strong>excellent swimmers</strong>.
+                </li>
+
+
+            </ul>
+            
+            </p>
+
+    </body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Links you love</title>
+    </head>
+    <body>
+
+        <h1>Links I love</h1>
+
+        <ul>
+            <li>
+                <a href="https://chat.openai.com/">ChatGPT Website</a>
+            </li>
+            <li>
+                <a href="https://bard.google.com/chat">Bard AI Website</a>
+            </li>
+            <li>
+                <a href="https://www.bangor.ac.uk/">Bangor University Website</a>
+            </li>
+        </ul>
+
+        <img src="https://www.kasandbox.org/programming-images/cute/Heart.png">
+
+    </body>
+</html>
